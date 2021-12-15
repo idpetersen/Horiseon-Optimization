@@ -5,47 +5,47 @@
 
 -Alt z to all p tags.
 
--Changed header class to header
+-Changed header class to header.
 
 -Changed the benifit-brand, cost, and lead classes to one class (benefit) to clean up css.
 
--Changed the online-reputation-management, social-media-marketing, and search-engine-optimization to one class (main-header)
+-Changed the online-reputation-management, social-media-marketing, and search-engine-optimization to one class (main-header).
 
--Changed copyright to 2021
+-Changed copyright to 2021.
 
--Changed line 11 div to section
+-Changed line 11 div to section.
 
--Changed line 13 div changed to nav
+-Changed line 13 div changed to nav.
 
--Changed line 28 div to main
+-Changed line 28 div to main.
 
--Changed line 29 div to article
+-Changed line 29 div to article.
 
--Changed line 36 div to article
+-Changed line 36 div to article.
 
--Changed line 43 div to article
+-Changed line 43 div to article.
 
--Changed line 51 div to section
+-Changed line 51 div to section.
 
--Changed line 52 div to aside
+-Changed line 52 div to aside.
 
--Changed line 59 div to aside
+-Changed line 59 div to aside.
 
--Changed line 66 div to aside
+-Changed line 66 div to aside.
 
--Changed line 74 div to footer
+-Changed line 74 div to footer.
 
--Removed all classes to clean up html
+-Removed all classes to clean up html.
 
--Added accessibility (alt) tags to all images
+-Added accessibility (alt) tags to all images.
 
--Fixed links by adding id tags to images
+-Fixed links by adding id tags to images.
 
 
 
 -Main changes to Horiseon CSS:
 
--Changed all .header to header
+-Changed all .header to header.
 
 -Lines 35-37 were redundant (has been removed) ul was already and unordered list.
 
@@ -61,5 +61,6 @@
 
 -Lines 179-187 were redundant. I changed the classes to main-header h2.
 
--Removed all class identifiers for semantic 
+-Removed all class identifiers for semantic.
 
+-Fixed contrast issues by changing the color of the aside section to match the main color.
