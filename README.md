@@ -5,6 +5,8 @@
 
 -Alt z to all p tags.
 
+-Changed header class to header
+
 -Changed the benifit-brand, cost, and lead classes to one class (benefit) to clean up css.
 
 -Changed the online-reputation-management, social-media-marketing, and search-engine-optimization to one class (main-header)
@@ -33,7 +35,15 @@
 
 -Changed line 74 div to footer
 
+-Removed all classes to clean up html
+
+
+
+
+
 -Main changes to Horiseon CSS:
+
+-Changed all .header to header
 
 -Lines 35-37 were redundant (has been removed) ul was already and unordered list.
 
@@ -49,4 +59,5 @@
 
 -Lines 179-187 were redundant. I changed the classes to main-header h2.
 
+-Removed all class identifiers for semantic 
 
