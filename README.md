@@ -37,7 +37,9 @@
 
 -Removed all classes to clean up html
 
+-Added accessibility (alt) tags to all images
 
+-Fixed links by adding id tags to images
 
 
 
