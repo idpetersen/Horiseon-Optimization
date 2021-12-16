@@ -17,6 +17,8 @@ p {
     font-size: 16px;
 }
 
+/*no classes necessary, just pulled from the header element*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +48,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*removed the hero tag and replaced with the only div on the css*/
+
 div {
     height: 800px;
     width: 100%;
@@ -60,6 +64,8 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* once again, no classes are necessary pulled from the article element, also the main element above*/
 
 article{
     margin-bottom: 20px;
@@ -79,6 +85,8 @@ article h2 {
     font-size: 36px;
 }
 
+/*the only two classes left standing. these are necessary because float is unique in this case. there are three images under the article element, in which the class is necessary for the float-left, id tag could be used for the float-right*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -88,6 +96,8 @@ article h2 {
     float: right;
     margin-left: 25px;
 }
+
+/*once again, classes are not necessary as the section/article elements only live in one place in the index file*/
 
 section {
     margin-right: 20px;
@@ -115,6 +125,8 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*finally, classes are not necessary here either*/
 
 footer {
     padding: 30px;
